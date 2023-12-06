@@ -1,4 +1,4 @@
-### Hi there, I'm [Natália](https://nataliakist.github.io/) 👋
+### Hi there, I'm Natália 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakist&layout=compact&theme=dark)
 
