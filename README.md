@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakist&layout=compact&theme=dark)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedinNatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialkist/)](https://www.linkedin.com/in/natalialkist/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialkist/)](https://www.linkedin.com/in/natalialkist/)
 
 
 <!--
