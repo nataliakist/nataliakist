@@ -1,6 +1,6 @@
 ### Hi there, I'm Natália 👋
 
-Engenheira de Produção com experiência em gestão de projetos de instalações e adequações industriais, em transição de carreira para área de TI, com foco em Desenvolvimento Web. Com habilidades em JavaScript/TypeScript, React/Redux, Node.js, Express, Python e Java, aprecia Pair-Programing, trabalho remoto e em equipe, além de ser capaz de aprender novas tecnologias rapidamente devido à experiências adquiridas no curso realizado.
+Engenheira de Produção com experiência em gestão de projetos de instalações e adequações industriais, em transição de carreira para área de TI, com foco em Desenvolvimento Web. Com habilidades em JavaScript/TypeScript, React/Redux, Node.js, Express, Python e Java, aprecio Pair-Programing, trabalho remoto e em equipe, além de ser capaz de aprender novas tecnologias rapidamente devido à experiências adquiridas no curso realizado.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakist&layout=compact&theme=dark)
 
