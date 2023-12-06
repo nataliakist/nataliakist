@@ -2,9 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakist&layout=compact&theme=dark)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">https://www.linkedin.com/in/natalialkist/</img>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **nataliakist/nataliakist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
