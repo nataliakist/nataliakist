@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Natália](https://nataliakist.github.io/) 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakist&layout=compact&theme=dark)
 
-<a href="https://www.linkedin.com/in/natalialkist/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedinNatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialkist/)](https://www.linkedin.com/in/natalialkist/)
+
 
 <!--
 **nataliakist/nataliakist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
